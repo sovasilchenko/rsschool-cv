@@ -1,0 +1,21 @@
+#content {
+    width: 700px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
+
+.article {
+    text-indent: 20px;
+}
+
+.headline {
+    text-align: center;
+}
+
+#photo {
+position: absolute;
+right: 20px;
+}
